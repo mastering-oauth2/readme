@@ -1,1 +1,1 @@
-# readme
+If you are looking for the companion source code for the book *Mastering OAuth 2.0*, you're close.  The real GitHub account is [https://github.com/mastering-oauth-2](https://github.com/mastering-oauth-2) :)
